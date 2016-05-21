@@ -1,0 +1,255 @@
+#wrap {
+	min-height: 100%;
+	margin: 0 auto;
+}
+body {
+	font-family: 'Crimson Text', serif;
+	background-color: rgb(255, 250, 240);
+	color: #3b827e;
+	height: 100%;
+}
+.header {
+  text-align: center;
+  background-size: cover;
+  height: 150px;
+	padding-top: 70px;
+}
+.footer {
+	position:relative;
+	margin-top: -50px;
+	height: 125px;
+	clear:both;
+	padding-top:20px;
+}
+body a{
+	text-transform: none;
+	text-decoration: none;
+}
+.nav a {
+	color: rgb(253, 245, 230);
+	text-transform: none;
+	text-decoration: none;
+}
+.nav-logo {
+	height: 50px;
+}
+.events {
+	color: rgb(253, 245, 230);
+}
+.events-margin {
+	padding-top: 110px;
+}
+.events-logo {
+	height: 190px;
+	object-position: center;
+}
+.cccccc {
+	background-color: rgb(17,51,91);
+	color: rgb(169,220,209);
+}
+p{
+	font-size: 18px;
+}
+
+.us-photo {
+	background: url("KH_OTR_Full-1.jpg") no-repeat center center;
+	background-size: cover;
+	height: 1000px;
+	border-top-style: solid;
+	border-top-color: rgb(153,69,28);
+	border-top-width: medium;
+}
+
+.registry-photo {
+	background: url("KH_OTR_Full-11-Copy.jpg") no-repeat center top;
+	background-size: cover;
+	height: 500px;
+	border-top-style: solid;
+	border-top-color: rgb(153,69,28);
+	border-top-width: medium;
+	border-bottom-style: solid;
+	border-bottom-color: rgb(153,69,28);
+	border-bottom-width: medium;
+}
+.hotel-photo {
+	background: url("KH_OTR_Full-26.jpg") no-repeat center center;
+	background-size: cover;
+	height: 500px;
+	border-top-style: solid;
+	border-top-color: rgb(153,69,28);
+	border-top-width: medium;
+	border-bottom-style: solid;
+	border-bottom-color: rgb(153,69,28);
+	border-bottom-width: medium;
+}
+.faq-photo {
+	background: url("KH_OTR_Full-25.jpg") no-repeat bottom center;
+	background-size: cover;
+	height: 500px;
+	border-top-style: solid;
+	border-top-color: rgb(153,69,28);
+	border-top-width: medium;
+	border-bottom-style: solid;
+	border-bottom-color: rgb(153,69,28);
+	border-bottom-width: medium;
+}
+.story-photo {
+	background: url("KH_OTR_Full-3.jpg") no-repeat center center;
+	background-size: cover;
+	height: 500px;
+	border-top-style: solid;
+	border-top-color: rgb(153,69,28);
+	border-top-width: medium;
+	border-bottom-style: solid;
+	border-bottom-color: rgb(153,69,28);
+	border-bottom-width: medium;
+}
+.events-photo {
+	background: url("KH_OTR_Full-2.jpg") no-repeat bottom center;
+	background-size: cover;
+	height: 500px;
+	border-top-style: solid;
+	border-top-color: rgb(153,69,28);
+	border-top-width: medium;
+	border-bottom-style: solid;
+	border-bottom-color: rgb(153,69,28);
+	border-bottom-width: medium;
+}
+.photo {
+	border-style:solid;
+  border-color: #634257;
+  border-width: 10px;
+}
+.travel-photo {
+	border-style:solid;
+  border-color: #3b827e;
+  border-width: thick;
+}
+.short-photo {
+	border-style:solid;
+  border-color: #3b827e;
+  border-width: thick;
+	padding-top: 40px;
+	padding-bottom: 35px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.short-photo-2 {
+	border-style:solid;
+  border-color: #3b827e;
+  border-width: thick;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.fluff {
+	height: 80px;
+}
+div {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.question {
+	color: rgb(17,51,91);
+}
+h1 {
+	font-size: 72px;
+	font-family: 'Forum', cursive;
+	color: rgb(153,69,28);
+}
+
+h3, h4 {
+	color: #3b827e;
+}
+h2 {
+	color: rgb(17,51,91);
+}
+.title {
+	padding-top: 50px;
+	height: 150px;
+}
+.event_list {
+	padding-left: 1em;
+	font-size: 18px;
+}
+.fluff-bottom {
+	padding-top: 650px;
+}
+/* My standard vertical spacing classes */
+
+.padding-inside-top-xs {
+  padding-top: 10px;
+}
+
+.padding-inside-top-sm {
+  padding-top: 20px;
+}
+
+.padding-inside-top-md {
+  padding-top: 50px;
+}
+
+.padding-inside-top-lg {
+  padding-top: 150px;
+}
+
+.padding-inside-top-xl {
+  padding-top: 200px;
+}
+
+.padding-inside-bottom-xs {
+  padding-bottom: 10px;
+}
+
+.padding-inside-bottom-sm {
+  padding-bottom: 20px;
+}
+
+.padding-inside-bottom-md {
+  padding-bottom: 50px;
+}
+
+.padding-inside-bottom-lg {
+  padding-bottom: 150px;
+}
+
+.padding-inside-bottom-xl {
+  padding-bottom: 200px;
+}
+
+.margin-above-top-xs {
+  margin-top: 10px;
+}
+
+.margin-above-top-sm {
+  margin-top: 20px;
+}
+
+.margin-above-top-md {
+  margin-top: 50px;
+}
+
+.margin-above-top-lg {
+  margin-top: 150px;
+}
+
+.margin-below-bottom-xs {
+  margin-bottom: 10px;
+}
+
+.margin-below-bottom-sm {
+  margin-bottom: 20px;
+}
+
+.margin-below-bottom-md {
+  margin-bottom: 50px;
+}
+
+.margin-below-bottom-lg {
+  margin-bottom: 150px;
+}
+
+.margin-below-bottom-xl {
+  margin-bottom: 200px;
+}
